@@ -1,5 +1,5 @@
 
 
 <p align="center">
-  <a href="https://plump.straw.page">stpg</a>
+  <a href="https://plump.straw.page">sp</a>
 </p>
