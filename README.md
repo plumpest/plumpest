@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/mqB1eGywKh0AAAAC/cat-play.gif" width="275" />
+  <img src="https://static.wikia.nocookie.net/id5/images/a/aa/MyTurn.png/revision/latest?cb=20250628105302" width="150" />
 </p>
 
 <p align="center">
