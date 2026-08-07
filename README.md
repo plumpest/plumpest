@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/id5/images/a/aa/MyTurn.png/revision/latest?cb=20250628105302" width="150" />
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Sticker_PPG_03_Luocha_01.png/revision/latest?cb=20230420194425" width="150" />
 </p>
 
 
