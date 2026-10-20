@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/id5/images/b/b6/GoOn.png/revision/latest?cb=20260813031340" width="150" />
+  <img src="https://static.wikia.nocookie.net/all_saints_street/images/9/99/Lynn_eyecatcher_1.gif/revision/latest?cb=20221019124947" width="150" />
 </p>
 
 <p align="center">
